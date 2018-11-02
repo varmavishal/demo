@@ -2,6 +2,6 @@ on branch....
 modified for difftool
 in front of DHATRI 
 #Demo project README
-This is a simple readme file
+I hope this is'nt much of a problem
 
 hey
